@@ -55,7 +55,7 @@ export default function Contact() {
                     </h2>
                     <div className="w-20 h-1 bg-eco-600 rounded-full mx-auto mb-6"></div>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                        Have questions or want to collaborate? We'd love to hear from you!
+                        Have questions or want to collaborate? We&apos;d love to hear from you!
                     </p>
                 </div>
 
