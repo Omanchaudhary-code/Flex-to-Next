@@ -48,7 +48,7 @@ export default function Impact() {
                         Making a Difference
                     </h2>
                     <p className="text-xl text-eco-50 max-w-2xl mx-auto">
-                        Every banner saved, every product created—together we're building a sustainable future
+                        Every banner saved, every product created—together we&apos;re building a sustainable future
                     </p>
                 </div>
 

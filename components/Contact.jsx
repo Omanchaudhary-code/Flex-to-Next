@@ -64,11 +64,11 @@ export default function Contact() {
                     <div className="space-y-8">
                         <div>
                             <h3 className="text-2xl font-bold text-eco-dark mb-6">
-                                Let's Start a Conversation
+                                Let&apos;s Start a Conversation
                             </h3>
                             <p className="text-gray-600 mb-8 leading-relaxed">
-                                Whether you're interested in our products, want to partner with us,
-                                or just want to learn more about our mission, we're here to help.
+                                Whether you&apos;re interested in our products, want to partner with us,
+                                or just want to learn more about our mission, we&apos;re here to help.
                             </p>
                         </div>
 
@@ -98,7 +98,7 @@ export default function Contact() {
                                     🌱 Sustainability Tip
                                 </p>
                                 <p className="text-gray-600 text-sm">
-                                    Every small action counts. By choosing upcycled products, you're helping
+                                    Every small action counts. By choosing upcycled products, you&apos;re helping
                                     reduce waste and supporting a circular economy.
                                 </p>
                             </div>

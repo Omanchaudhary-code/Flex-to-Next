@@ -40,7 +40,7 @@ export default function WhyUs() {
                     </h2>
                     <div className="w-20 h-1 bg-eco-600 rounded-full mx-auto mb-6"></div>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                        We're not just creating products—we're creating a movement towards sustainable living
+                        We&apos;re not just creating products—we&apos;re creating a movement towards sustainable living
                     </p>
                 </div>
 

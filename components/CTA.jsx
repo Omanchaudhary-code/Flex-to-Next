@@ -23,7 +23,7 @@ export default function CTA() {
 
                 <div className="max-w-4xl mx-auto px-6 text-center relative z-10">
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                        Let's Turn Waste into Something Useful
+                        Let&apos;s Turn Waste into Something Useful
                     </h2>
 
                     <p className="text-xl md:text-2xl text-eco-100 mb-10 max-w-2xl mx-auto">
